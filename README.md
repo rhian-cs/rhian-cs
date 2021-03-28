@@ -4,7 +4,7 @@ My name is Rhian, I am a Junior Web Developer and a Computer Science student.
 
 I like games, open source software and Linux.
 
-<sub><sup><sub><sup>I like [Touhou](https://images7.memedroid.com/images/UPLOADED916/5e0ae62c5b686.jpeg) if you care about that</sup></sub></sup></sub>
+<sub><sup><sub><sup>By the way I like [Touhou](https://media1.tenor.com/images/50ead60764442fd6304067bac5377027/tenor.gif) if you care about that</sup></sub></sup></sub>
 
 ## Technologies
 
