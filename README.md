@@ -1,16 +1,37 @@
-### Hi there 👋
+## Hello there!
 
-<!--
-**rhian-cs/rhian-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Rhian, I am a Junior Web Developer and a Computer Science student.
 
-Here are some ideas to get you started:
+I like games, open source software and Linux.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<sub><sup><sub><sup>I like [Touhou](https://images7.memedroid.com/images/UPLOADED916/5e0ae62c5b686.jpeg) if you care about that</sup></sub></sup></sub>
+
+## Technologies
+
+* Web Development
+  * Ruby on Rails
+  * Vue.js
+  * JQuery
+
+* Programming Languages
+  * Ruby
+  * JavaScript
+  * Python
+  * C
+  * Java
+  * C#
+
+* Others
+  * SQL
+  * Linux 💛 (Currently using [Linux Mint](https://linuxmint.com/) on my personal machine)
+
+## Projects
+### University Repositories 🇧🇷🎓
+  * [Projeto Final Lab. AED II](https://github.com/rhian-cs/Projeto_final_LAEDII)
+  * [AndromedaSolids - Mentoring II](https://github.com/rhian-cs/AndromedaSolids)
+
+## Contributions to Open Source Software 🗺️🖥️
+Hopefully one day there will be too many to fit on a list.
+  * Sidekiq Statistic: [#173](https://github.com/davydovanton/sidekiq-statistic/pull/173)
+  * Diaper: [#2163](https://github.com/rubyforgood/diaper/pull/2163)
+  * CASA: [#1774](https://github.com/rubyforgood/casa/pull/1774), [#1795](https://github.com/rubyforgood/casa/pull/1795), [#1802](https://github.com/rubyforgood/casa/pull/1802)
