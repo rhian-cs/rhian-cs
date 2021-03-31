@@ -40,7 +40,7 @@ I like games, open source software and Linux.
   </td>
   <td>
     Linux Mint (currently using on<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;my personal machine)<br>
+    my personal machine)<br>
     Debian<br>
     Ubuntu<br>
     Manjaro<br>
