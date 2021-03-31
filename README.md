@@ -12,7 +12,6 @@ I like games, open source software and Linux.
 <sub><sup><sub><sup>_By the way I like [Touhou](https://media1.tenor.com/images/50ead60764442fd6304067bac5377027/tenor.gif) if you care about that_</sup></sub></sup></sub>
 
 ## Technologies
----------------
 
 <table>
 <th>Web Development</th>
