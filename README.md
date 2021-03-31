@@ -24,6 +24,12 @@ I like games, open source software and Linux.
 * Others
   * SQL
   * Linux 💛 (Currently using [Linux Mint](https://linuxmint.com/) on my personal machine)
+    * Linux Mint
+    * Debian
+    * Ubuntu
+    * Manjaro
+    * Arch Linux
+    * Gentoo
 
 ## Projects
 ### University Repositories 🇧🇷🎓
