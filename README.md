@@ -55,6 +55,10 @@ I like games, open source software and Linux.
   * [Projeto Final Lab. AED II](https://github.com/rhian-cs/Projeto_final_LAEDII)
   * [AndromedaSolids - Mentoring II](https://github.com/rhian-cs/AndromedaSolids)
 
+### Seminários 2021
+  * [Boilerplate Project](https://github.com/rhian-cs/seminarios-2021-oficina-2-boilerplate) ([Available here](https://rhian-cs.github.io/seminarios-2021-oficina-2-boilerplate/public/index.html))
+  * [Game Store](https://github.com/rhian-cs/seminarios-2021-oficina-2-game-store)
+
 ## Contributions to Open Source Software 🗺️🖥️
 Hopefully one day there will be too many to fit on a list.
   * Sidekiq Statistic: [#173](https://github.com/davydovanton/sidekiq-statistic/pull/173)
