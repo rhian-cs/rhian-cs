@@ -52,12 +52,14 @@ I like games, open source software and Linux.
 # Projects
 
 ## University Repositories 🇧🇷🎓
+### 2020
   * [Projeto Final Lab. AED II](https://github.com/rhian-cs/Projeto_final_LAEDII)
   * [AndromedaSolids - Mentoring II](https://github.com/rhian-cs/AndromedaSolids)
 
-### Seminários 2021
-  * [Boilerplate Project](https://github.com/rhian-cs/seminarios-2021-oficina-2-boilerplate) ([Website available here](https://rhian-cs.github.io/seminarios-2021-oficina-2-boilerplate/public/index.html))
-  * [Game Store](https://github.com/rhian-cs/seminarios-2021-oficina-2-game-store) ([Website available here](https://rhian-cs.github.io/seminarios-2021-oficina-2-game-store/))
+### 2021
+  * Seminários - Oficina 2 - React
+    * [Boilerplate Project](https://github.com/rhian-cs/seminarios-2021-oficina-2-boilerplate) ([Website available here](https://rhian-cs.github.io/seminarios-2021-oficina-2-boilerplate/public/index.html))
+    * [Game Store](https://github.com/rhian-cs/seminarios-2021-oficina-2-game-store) ([Website available here](https://rhian-cs.github.io/seminarios-2021-oficina-2-game-store/))
 
 ## Contributions to Open Source Software 🗺️🖥️
 Hopefully one day there will be too many to fit on a list.
