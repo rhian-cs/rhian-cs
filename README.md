@@ -56,8 +56,8 @@ I like games, open source software and Linux.
   * [AndromedaSolids - Mentoring II](https://github.com/rhian-cs/AndromedaSolids)
 
 ### Seminários 2021
-  * [Boilerplate Project](https://github.com/rhian-cs/seminarios-2021-oficina-2-boilerplate) ([Available here](https://rhian-cs.github.io/seminarios-2021-oficina-2-boilerplate/public/index.html))
-  * [Game Store](https://github.com/rhian-cs/seminarios-2021-oficina-2-game-store)
+  * [Boilerplate Project](https://github.com/rhian-cs/seminarios-2021-oficina-2-boilerplate) ([Website available here](https://rhian-cs.github.io/seminarios-2021-oficina-2-boilerplate/public/index.html))
+  * [Game Store](https://github.com/rhian-cs/seminarios-2021-oficina-2-game-store) ([Website available here](https://rhian-cs.github.io/seminarios-2021-oficina-2-game-store/))
 
 ## Contributions to Open Source Software 🗺️🖥️
 Hopefully one day there will be too many to fit on a list.
