@@ -21,6 +21,7 @@ I like games, open source software and Linux.
 <tr>
   <td>
       Ruby on Rails<br>
+      React<br>
       Vue.js<br>
       JQuery<br>
   </td>
