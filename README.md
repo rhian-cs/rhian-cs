@@ -67,3 +67,4 @@ Hopefully one day there will be too many to fit on a list.
   * Sidekiq Statistic: [#173](https://github.com/davydovanton/sidekiq-statistic/pull/173)
   * Diaper: [#2163](https://github.com/rubyforgood/diaper/pull/2163)
   * CASA: [#1774](https://github.com/rubyforgood/casa/pull/1774), [#1795](https://github.com/rubyforgood/casa/pull/1795), [#1802](https://github.com/rubyforgood/casa/pull/1802), [#1908](https://github.com/rubyforgood/casa/pull/1908), [#2080](https://github.com/rubyforgood/casa/pull/2080), [#2095](https://github.com/rubyforgood/casa/pull/2095)/[#2132](https://github.com/rubyforgood/casa/pull/2132), [#2133](https://github.com/rubyforgood/casa/pull/2133), [#2136](https://github.com/rubyforgood/casa/pull/2136)
+  * Consul: [#4543](https://github.com/consul/consul/pull/4543)
