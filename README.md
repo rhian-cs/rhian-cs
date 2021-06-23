@@ -68,7 +68,11 @@ I like games, open source software and Linux.
 ## Contributions to Open Source Software 🗺️🖥️
 Hopefully one day there will be too many to fit on a list.
   * Sidekiq Statistic: [#173](https://github.com/davydovanton/sidekiq-statistic/pull/173)
-  * Diaper: [#2163](https://github.com/rubyforgood/diaper/pull/2163)
+  
+  * Human Essentials:
+  [#2163](https://github.com/rubyforgood/human-essentials/pull/2163),
+  [#2413](https://github.com/rubyforgood/human-essentials/pull/2413)
+  
   * CASA:
   [#1774](https://github.com/rubyforgood/casa/pull/1774),
   [#1795](https://github.com/rubyforgood/casa/pull/1795),
