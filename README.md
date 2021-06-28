@@ -85,6 +85,7 @@ Hopefully one day there will be too many to fit on a list.
   [#2133](https://github.com/rubyforgood/casa/pull/2133),
   [#2136](https://github.com/rubyforgood/casa/pull/2136),
   [#2166](https://github.com/rubyforgood/casa/pull/2166),
-  [#2176](https://github.com/rubyforgood/casa/pull/2176)
+  [#2176](https://github.com/rubyforgood/casa/pull/2176),
+  [#2206](https://github.com/rubyforgood/casa/pull/2206)
 
   * Consul: [#4543](https://github.com/consul/consul/pull/4543)
