@@ -54,6 +54,9 @@ I like games, open source software and Linux.
 <table>
 
 # Projects
+  
+## Cryptography Studies
+  * [Encryption and Decryption in PHP using PBKDF2 and AES](https://github.com/rhian-cs/crypto-challenge-php-pbkdf2)
 
 ## University Repositories 🇧🇷🎓
 ### 2020
