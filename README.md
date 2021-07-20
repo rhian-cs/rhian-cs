@@ -71,11 +71,9 @@ I like games, open source software and Linux.
 ## Contributions to Open Source Software 🗺️🖥️
 Hopefully one day there will be too many to fit on a list.
   * Sidekiq Statistic: [#173](https://github.com/davydovanton/sidekiq-statistic/pull/173)
-  
   * Human Essentials:
   [#2163](https://github.com/rubyforgood/human-essentials/pull/2163),
   [#2413](https://github.com/rubyforgood/human-essentials/pull/2413)
-  
   * CASA:
   [#1774](https://github.com/rubyforgood/casa/pull/1774),
   [#1795](https://github.com/rubyforgood/casa/pull/1795),
@@ -90,6 +88,6 @@ Hopefully one day there will be too many to fit on a list.
   [#2166](https://github.com/rubyforgood/casa/pull/2166),
   [#2176](https://github.com/rubyforgood/casa/pull/2176),
   [#2206](https://github.com/rubyforgood/casa/pull/2206),
-  [#2267](https://github.com/rubyforgood/casa/pull/2267)
-
+  [#2267](https://github.com/rubyforgood/casa/pull/2267),
+  [#2298](https://github.com/rubyforgood/casa/pull/2298)
   * Consul: [#4543](https://github.com/consul/consul/pull/4543)
