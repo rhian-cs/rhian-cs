@@ -36,6 +36,7 @@ I like games, open source software and Linux.
       Java<br>
   </td>
   <td>
+    Docker<br>
     SQL<br>
     <a href="https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller">MVC</a><br>
     <a href="https://en.wikipedia.org/wiki/SOLID">SOLID principles</a><br>
