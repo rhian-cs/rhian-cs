@@ -66,7 +66,7 @@ I like games, open source software and Linux.
 
 ### 2021
   * Seminários - Oficina 2 - React
-    * [Boilerplate Project](https://github.com/rhian-cs/seminarios-2021-oficina-2-boilerplate) ([Website available here](https://rhian-cs.github.io/seminarios-2021-oficina-2-boilerplate/public/index.html))
+    * [Boilerplate Project](https://github.com/rhian-cs/seminarios-2021-oficina-2-boilerplate) ([Website available here](https://rhian-cs.github.io/puc-2021-1-seminarios-3-oficina-2-boilerplate-project/public/index.html))
     * [Game Store](https://github.com/rhian-cs/seminarios-2021-oficina-2-game-store) ([Website available here](https://rhian-cs.github.io/seminarios-2021-oficina-2-game-store/))
 
 ## Contributions to Open Source Software 🗺️🖥️
