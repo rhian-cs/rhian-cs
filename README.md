@@ -9,7 +9,11 @@ My name is Rhian, I am a Junior Web Developer and a Computer Science student.
 
 I like games, open source software and Linux.
 
-<sub><sup><sub><sup>_By the way I like [Touhou](https://media1.tenor.com/images/50ead60764442fd6304067bac5377027/tenor.gif) if you care about that_</sup></sub></sup></sub>
+<!--
+  Other images :)
+  https://media1.tenor.com/images/50ead60764442fd6304067bac5377027/tenor.gif
+-->
+<sub><sup><sub><sup>_By the way I like [Touhou](https://i1.kym-cdn.com/photos/images/newsfeed/000/333/537/b27.png) if you care about that_</sup></sub></sup></sub>
 
 ## Stats
 [![rhian-cs's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhian-cs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
