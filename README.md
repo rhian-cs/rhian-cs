@@ -40,10 +40,11 @@ I like games, open source software and Linux.
       Java<br>
   </td>
   <td>
-    Docker<br>
     SQL<br>
+    Docker<br>
+    RabbitMQ<br>
+    Microservices Achitecture<br>
     <a href="https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller">MVC</a><br>
-    <a href="https://en.wikipedia.org/wiki/SOLID">SOLID principles</a><br>
     <a href="https://en.wikipedia.org/wiki/Don't_repeat_yourself">DRY</a><br>
   </td>
   <td>
@@ -85,8 +86,7 @@ Hopefully one day there will be too many to fit on a list.
   [#1802](https://github.com/rubyforgood/casa/pull/1802),
   [#1908](https://github.com/rubyforgood/casa/pull/1908),
   [#2080](https://github.com/rubyforgood/casa/pull/2080),
-  [#2095](https://github.com/rubyforgood/casa/pull/2095)
-  →
+  [#2095](https://github.com/rubyforgood/casa/pull/2095),
   [#2132](https://github.com/rubyforgood/casa/pull/2132),
   [#2133](https://github.com/rubyforgood/casa/pull/2133),
   [#2136](https://github.com/rubyforgood/casa/pull/2136),
