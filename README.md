@@ -16,7 +16,8 @@ I like games, open source software and Linux.
 <sub><sup><sub><sup>_By the way I like [Touhou](https://i1.kym-cdn.com/photos/images/newsfeed/000/333/537/b27.png) if you care about that_</sup></sub></sup></sub>
 
 ## Stats
-[![rhian-cs's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhian-cs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Rhian's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhian-cs&show_icons=true&theme=tokyonight&line_height=24.99)](https://github.com/anuraghazra/github-readme-stats)
+[![Rhian's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhian-cs&layout=compact&theme=tokyonight&langs_count=8&exclude_repo=AndromedaSolids)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technologies
 
