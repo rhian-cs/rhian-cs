@@ -96,5 +96,7 @@ Hopefully one day there will be too many to fit on a list.
   [#2206](https://github.com/rubyforgood/casa/pull/2206),
   [#2267](https://github.com/rubyforgood/casa/pull/2267),
   [#2298](https://github.com/rubyforgood/casa/pull/2298),
-  [#3044](https://github.com/rubyforgood/casa/pull/3044)
+  [#3044](https://github.com/rubyforgood/casa/pull/3044),
+  [#3345](https://github.com/rubyforgood/casa/pull/3345)
   * Consul: [#4543](https://github.com/consul/consul/pull/4543)
+  * Comarev API: [#90](https://github.com/comarev/comarev/pull/90)
