@@ -62,8 +62,11 @@ I like games, open source software and Linux.
 
 # Projects
   
-## Cryptography Studies
-  * [Encryption and Decryption in PHP using PBKDF2 and AES](https://github.com/rhian-cs/crypto-challenge-php-pbkdf2)
+## Personal Projects and Studies
+  * [Elixir] [Weather Data Parser - CLI application](https://github.com/rhian-cs/elixir-weather-parser)
+  * [PHP] [Encryption and Decryption using PBKDF2 and AES](https://github.com/rhian-cs/crypto-challenge-php-pbkdf2)
+  * [Elixir] [My Elixir Study Library](https://github.com/rhian-cs/elixir-studies)
+  * [Vue.js] [My Vue Study Library](https://github.com/rhian-cs/vue-udemy-studies)
 
 ## University Repositories 🇧🇷🎓
 ### 2020
