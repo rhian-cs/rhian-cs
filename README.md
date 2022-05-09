@@ -19,7 +19,7 @@ I like games, open source software and Linux.
 ## Stats
 
 [![Rhian's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhian-cs&show_icons=true&theme=tokyonight&line_height=24.99)](https://github.com/anuraghazra/github-readme-stats)
-[![Rhian's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhian-cs&layout=compact&theme=tokyonight&langs_count=8&exclude_repo=AndromedaSolids)](https://github.com/anuraghazra/github-readme-stats)
+[![Rhian's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhian-cs&layout=compact&theme=tokyonight&langs_count=8&exclude_repo=AndromedaSolids,puc-2020-2-Projeto_final_LAEDII)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technologies
 
@@ -53,20 +53,22 @@ I like games, open source software and Linux.
     <a href="https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it">YAGNI Principle</a><br>
   </td>
   <td>
-    Linux Mint (currently using on<br>
-    my personal machine)<br>
+    <img src="https://freesvg.org/img/jean-victor-balin-icon-star.png" width="auto" height="14px" /> <strong>Linux Mint</strong><br>
     Debian<br>
     Ubuntu<br>
     Manjaro<br>
     Arch Linux<br>
     Gentoo<br>
+    <span style="text-decoration: line-through;">Hannah Montana Linux</span><br>
   </td>
 </tr>
 <table>
 
+<img src="https://freesvg.org/img/jean-victor-balin-icon-star.png" width="auto" height="14px" /> Currently using on my personal machine
+
 # Projects
 
-## Personal Projects and Studies
+## Personal Projects and Studies 💼📚
 
 - [Elixir] [Weather Data Parser - CLI application](https://github.com/rhian-cs/elixir-weather-parser)
 - [PHP] [Encryption and Decryption using PBKDF2 and AES](https://github.com/rhian-cs/crypto-challenge-php-pbkdf2)
