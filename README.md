@@ -94,22 +94,22 @@ Hopefully one day there will be too many to fit on a list.
   - [#2163 Display the Approve Partner button at the top of the page with a tooltip](https://github.com/rubyforgood/human-essentials/pull/2163),
   - [#2413 Fix bullet warnings in dashboard page](https://github.com/rubyforgood/human-essentials/pull/2413)
 - [Ruby on Rails] CASA:
-  [#1774](https://github.com/rubyforgood/casa/pull/1774),
-  [#1795](https://github.com/rubyforgood/casa/pull/1795),
-  [#1802](https://github.com/rubyforgood/casa/pull/1802),
-  [#1908](https://github.com/rubyforgood/casa/pull/1908),
-  [#2080](https://github.com/rubyforgood/casa/pull/2080),
-  [#2095](https://github.com/rubyforgood/casa/pull/2095),
-  [#2132](https://github.com/rubyforgood/casa/pull/2132),
-  [#2133](https://github.com/rubyforgood/casa/pull/2133),
-  [#2136](https://github.com/rubyforgood/casa/pull/2136),
-  [#2166](https://github.com/rubyforgood/casa/pull/2166),
-  [#2176](https://github.com/rubyforgood/casa/pull/2176),
-  [#2206](https://github.com/rubyforgood/casa/pull/2206),
-  [#2267](https://github.com/rubyforgood/casa/pull/2267),
-  [#2298](https://github.com/rubyforgood/casa/pull/2298),
-  [#3044](https://github.com/rubyforgood/casa/pull/3044),
-  [#3345](https://github.com/rubyforgood/casa/pull/3345)
+  - [#1774 Remove transition_aged_youth column from CSV file when importing a case](https://github.com/rubyforgood/casa/pull/1774),
+  - [#1795 Add Court Mandates to Edit CASA Case page](https://github.com/rubyforgood/casa/pull/1795),
+  - [#1802 Add option to remove Court Mandates](https://github.com/rubyforgood/casa/pull/1802),
+  - [#1908 Add Implementation Status to Court Mandates](https://github.com/rubyforgood/casa/pull/1908),
+  - [#2080 Add court details to past court dates](https://github.com/rubyforgood/casa/pull/2080),
+  - [#2095 Generate past court reports from past court date](https://github.com/rubyforgood/casa/pull/2095),
+  - [#2132 Implement pending past court date model specs](https://github.com/rubyforgood/casa/pull/2132),
+  - [#2133 Fix reset password mail hardcoded image](https://github.com/rubyforgood/casa/pull/2133),
+  - [#2136 Allow unsetting judge on a given CASA case](https://github.com/rubyforgood/casa/pull/2136),
+  - [#2166 Add filters for case contacts](https://github.com/rubyforgood/casa/pull/2166),
+  - [#2176 Restrict case court report searching to admins and supervisors](https://github.com/rubyforgood/casa/pull/2176),
+  - [#2206 Add notes to followups](https://github.com/rubyforgood/casa/pull/2206),
+  - [#2267 Refactor supervisors system specs](https://github.com/rubyforgood/casa/pull/2267),
+  - [#2298 Display archived contacts differently in order to highlight them](https://github.com/rubyforgood/casa/pull/2298),
+  - [#3044 Add .webp to casa org logo accepted extensions](https://github.com/rubyforgood/casa/pull/3044),
+  - [#3345 Allow for editing volunteer notes](https://github.com/rubyforgood/casa/pull/3345)
 - [Ruby on Rails] Consul:
   - [#4543 Make confirm alerts show the triggering action](https://github.com/consul/consul/pull/4543)
 - [Ruby on Rails] Comarev API:
