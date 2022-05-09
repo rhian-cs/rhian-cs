@@ -80,10 +80,11 @@ I like games, open source software and Linux.
 
 ## Contributions to Open Source Software 🗺️🖥️
 Hopefully one day there will be too many to fit on a list.
-  * [Ruby Gem] Sidekiq Statistic: [#173](https://github.com/davydovanton/sidekiq-statistic/pull/173)
+  * [Ruby Gem] Sidekiq Statistic:
+    * [#173 Filter workers by their last job status](https://github.com/davydovanton/sidekiq-statistic/pull/173)
   * [Ruby on Rails] Human Essentials:
-  [#2163](https://github.com/rubyforgood/human-essentials/pull/2163),
-  [#2413](https://github.com/rubyforgood/human-essentials/pull/2413)
+    * [#2163 Display the Approve Partner button at the top of the page with a tooltip](https://github.com/rubyforgood/human-essentials/pull/2163),
+    * [#2413 Fix bullet warnings in dashboard page](https://github.com/rubyforgood/human-essentials/pull/2413)
   * [Ruby on Rails] CASA:
   [#1774](https://github.com/rubyforgood/casa/pull/1774),
   [#1795](https://github.com/rubyforgood/casa/pull/1795),
@@ -101,6 +102,9 @@ Hopefully one day there will be too many to fit on a list.
   [#2298](https://github.com/rubyforgood/casa/pull/2298),
   [#3044](https://github.com/rubyforgood/casa/pull/3044),
   [#3345](https://github.com/rubyforgood/casa/pull/3345)
-  * [Ruby on Rails] Consul: [#4543](https://github.com/consul/consul/pull/4543)
-  * [Ruby on Rails] Comarev API: [#90](https://github.com/comarev/comarev/pull/90)
-  * [JavaScript] Ramda Adjunct: [#2257](https://github.com/char0n/ramda-adjunct/pull/2257)
+  * [Ruby on Rails] Consul:
+    * [#4543 Make confirm alerts show the triggering action](https://github.com/consul/consul/pull/4543)
+  * [Ruby on Rails] Comarev API:
+    * [#90 Add approval flow for new customers](https://github.com/comarev/comarev/pull/90)
+  * [JavaScript] Ramda Adjunct:
+    * [#2257 Add isUinteger32 function](https://github.com/char0n/ramda-adjunct/pull/2257)
