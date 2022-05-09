@@ -70,21 +70,21 @@ I like games, open source software and Linux.
 
 ## University Repositories 🇧🇷🎓
 ### 2020
-  * [Projeto Final Lab. AED II](https://github.com/rhian-cs/Projeto_final_LAEDII)
-  * [AndromedaSolids - Mentoring II](https://github.com/rhian-cs/AndromedaSolids)
+  * [C] [Projeto Final Lab. AED II](https://github.com/rhian-cs/Projeto_final_LAEDII)
+  * [Unity, C#] [AndromedaSolids - Mentoring II](https://github.com/rhian-cs/AndromedaSolids)
 
 ### 2021
   * Seminários - Oficina 2 - React
-    * [Boilerplate Project](https://github.com/rhian-cs/seminarios-2021-oficina-2-boilerplate) ([Website available here](https://rhian-cs.github.io/puc-2021-1-seminarios-3-oficina-2-boilerplate-project/public/index.html))
-    * [Game Store](https://github.com/rhian-cs/seminarios-2021-oficina-2-game-store) ([Website available here](https://rhian-cs.github.io/seminarios-2021-oficina-2-game-store/))
+    * [React] [Boilerplate Project](https://github.com/rhian-cs/seminarios-2021-oficina-2-boilerplate) ([Website available here](https://rhian-cs.github.io/puc-2021-1-seminarios-3-oficina-2-boilerplate-project/public/index.html))
+    * [React] [Game Store](https://github.com/rhian-cs/seminarios-2021-oficina-2-game-store) ([Website available here](https://rhian-cs.github.io/seminarios-2021-oficina-2-game-store/))
 
 ## Contributions to Open Source Software 🗺️🖥️
 Hopefully one day there will be too many to fit on a list.
-  * Sidekiq Statistic: [#173](https://github.com/davydovanton/sidekiq-statistic/pull/173)
-  * Human Essentials:
+  * [Ruby Gem] Sidekiq Statistic: [#173](https://github.com/davydovanton/sidekiq-statistic/pull/173)
+  * [Ruby on Rails] Human Essentials:
   [#2163](https://github.com/rubyforgood/human-essentials/pull/2163),
   [#2413](https://github.com/rubyforgood/human-essentials/pull/2413)
-  * CASA:
+  * [Ruby on Rails] CASA:
   [#1774](https://github.com/rubyforgood/casa/pull/1774),
   [#1795](https://github.com/rubyforgood/casa/pull/1795),
   [#1802](https://github.com/rubyforgood/casa/pull/1802),
@@ -101,6 +101,6 @@ Hopefully one day there will be too many to fit on a list.
   [#2298](https://github.com/rubyforgood/casa/pull/2298),
   [#3044](https://github.com/rubyforgood/casa/pull/3044),
   [#3345](https://github.com/rubyforgood/casa/pull/3345)
-  * Consul: [#4543](https://github.com/consul/consul/pull/4543)
-  * Comarev API: [#90](https://github.com/comarev/comarev/pull/90)
-  * Ramda Adjunct: [#2257](https://github.com/char0n/ramda-adjunct/pull/2257)
+  * [Ruby on Rails] Consul: [#4543](https://github.com/consul/consul/pull/4543)
+  * [Ruby on Rails] Comarev API: [#90](https://github.com/comarev/comarev/pull/90)
+  * [JavaScript] Ramda Adjunct: [#2257](https://github.com/char0n/ramda-adjunct/pull/2257)
