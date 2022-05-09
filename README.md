@@ -13,9 +13,11 @@ I like games, open source software and Linux.
   Other images :)
   https://media1.tenor.com/images/50ead60764442fd6304067bac5377027/tenor.gif
 -->
+
 <sub><sup><sub><sup>_By the way I like [Touhou](https://i1.kym-cdn.com/photos/images/newsfeed/000/333/537/b27.png) if you care about that_</sup></sub></sup></sub>
 
 ## Stats
+
 [![Rhian's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhian-cs&show_icons=true&theme=tokyonight&line_height=24.99)](https://github.com/anuraghazra/github-readme-stats)
 [![Rhian's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhian-cs&layout=compact&theme=tokyonight&langs_count=8&exclude_repo=AndromedaSolids)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -61,31 +63,37 @@ I like games, open source software and Linux.
 <table>
 
 # Projects
-  
+
 ## Personal Projects and Studies
-  * [Elixir] [Weather Data Parser - CLI application](https://github.com/rhian-cs/elixir-weather-parser)
-  * [PHP] [Encryption and Decryption using PBKDF2 and AES](https://github.com/rhian-cs/crypto-challenge-php-pbkdf2)
-  * [Elixir] [My Elixir Study Library](https://github.com/rhian-cs/elixir-studies)
-  * [Vue.js] [My Vue Study Library](https://github.com/rhian-cs/vue-udemy-studies)
+
+- [Elixir] [Weather Data Parser - CLI application](https://github.com/rhian-cs/elixir-weather-parser)
+- [PHP] [Encryption and Decryption using PBKDF2 and AES](https://github.com/rhian-cs/crypto-challenge-php-pbkdf2)
+- [Elixir] [My Elixir Study Library](https://github.com/rhian-cs/elixir-studies)
+- [Vue.js] [My Vue Study Library](https://github.com/rhian-cs/vue-udemy-studies)
 
 ## University Repositories 🇧🇷🎓
+
 ### 2020
-  * [C] [Projeto Final Lab. AED II](https://github.com/rhian-cs/Projeto_final_LAEDII)
-  * [Unity, C#] [AndromedaSolids - Mentoring II](https://github.com/rhian-cs/AndromedaSolids)
+
+- [C] [Projeto Final Lab. AED II](https://github.com/rhian-cs/Projeto_final_LAEDII)
+- [Unity, C#] [AndromedaSolids - Mentoring II](https://github.com/rhian-cs/AndromedaSolids)
 
 ### 2021
-  * Seminários - Oficina 2 - React
-    * [React] [Boilerplate Project](https://github.com/rhian-cs/seminarios-2021-oficina-2-boilerplate) ([Website available here](https://rhian-cs.github.io/puc-2021-1-seminarios-3-oficina-2-boilerplate-project/public/index.html))
-    * [React] [Game Store](https://github.com/rhian-cs/seminarios-2021-oficina-2-game-store) ([Website available here](https://rhian-cs.github.io/seminarios-2021-oficina-2-game-store/))
+
+- Seminários - Oficina 2 - React
+  - [React] [Boilerplate Project](https://github.com/rhian-cs/seminarios-2021-oficina-2-boilerplate) ([Website available here](https://rhian-cs.github.io/puc-2021-1-seminarios-3-oficina-2-boilerplate-project/public/index.html))
+  - [React] [Game Store](https://github.com/rhian-cs/seminarios-2021-oficina-2-game-store) ([Website available here](https://rhian-cs.github.io/seminarios-2021-oficina-2-game-store/))
 
 ## Contributions to Open Source Software 🗺️🖥️
+
 Hopefully one day there will be too many to fit on a list.
-  * [Ruby Gem] Sidekiq Statistic:
-    * [#173 Filter workers by their last job status](https://github.com/davydovanton/sidekiq-statistic/pull/173)
-  * [Ruby on Rails] Human Essentials:
-    * [#2163 Display the Approve Partner button at the top of the page with a tooltip](https://github.com/rubyforgood/human-essentials/pull/2163),
-    * [#2413 Fix bullet warnings in dashboard page](https://github.com/rubyforgood/human-essentials/pull/2413)
-  * [Ruby on Rails] CASA:
+
+- [Ruby Gem] Sidekiq Statistic:
+  - [#173 Filter workers by their last job status](https://github.com/davydovanton/sidekiq-statistic/pull/173)
+- [Ruby on Rails] Human Essentials:
+  - [#2163 Display the Approve Partner button at the top of the page with a tooltip](https://github.com/rubyforgood/human-essentials/pull/2163),
+  - [#2413 Fix bullet warnings in dashboard page](https://github.com/rubyforgood/human-essentials/pull/2413)
+- [Ruby on Rails] CASA:
   [#1774](https://github.com/rubyforgood/casa/pull/1774),
   [#1795](https://github.com/rubyforgood/casa/pull/1795),
   [#1802](https://github.com/rubyforgood/casa/pull/1802),
@@ -102,9 +110,9 @@ Hopefully one day there will be too many to fit on a list.
   [#2298](https://github.com/rubyforgood/casa/pull/2298),
   [#3044](https://github.com/rubyforgood/casa/pull/3044),
   [#3345](https://github.com/rubyforgood/casa/pull/3345)
-  * [Ruby on Rails] Consul:
-    * [#4543 Make confirm alerts show the triggering action](https://github.com/consul/consul/pull/4543)
-  * [Ruby on Rails] Comarev API:
-    * [#90 Add approval flow for new customers](https://github.com/comarev/comarev/pull/90)
-  * [JavaScript] Ramda Adjunct:
-    * [#2257 Add isUinteger32 function](https://github.com/char0n/ramda-adjunct/pull/2257)
+- [Ruby on Rails] Consul:
+  - [#4543 Make confirm alerts show the triggering action](https://github.com/consul/consul/pull/4543)
+- [Ruby on Rails] Comarev API:
+  - [#90 Add approval flow for new customers](https://github.com/comarev/comarev/pull/90)
+- [JavaScript] Ramda Adjunct:
+  - [#2257 Add isUinteger32 function](https://github.com/char0n/ramda-adjunct/pull/2257)
