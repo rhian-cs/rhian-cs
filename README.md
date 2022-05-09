@@ -29,13 +29,13 @@ I like games, open source software and Linux.
 <th>Others</th>
 <th>Linux 💛</th>
 <tr>
-  <td>
+  <td style="vertical-align: top;">
       <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat&logo=ruby-on-rails&logoColor=white" alt="Ruby on Rails" /><br>
       <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" /><br>
       <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D" alt="Vue JS" /><br>
       <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white" alt="JQuery" /><br>
   </td>
-  <td>
+  <td style="vertical-align: top;">
       <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white" alt="Ruby" /><br>
       <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /><br>
       <img src="https://img.shields.io/badge/Python-112244?style=flat&logo=python&logoColor=blue" alt="Python" /><br>
@@ -43,7 +43,7 @@ I like games, open source software and Linux.
       <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" /><br>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java" /><br>
   </td>
-  <td>
+  <td style="vertical-align: top;">
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="SQL" /><br>
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white" alt="Docker" /><br>
     <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=flat&logo=rabbitmq&logoColor=white" alt="RabbitMQ" /><br>
@@ -53,7 +53,7 @@ I like games, open source software and Linux.
     <a href="https://en.wikipedia.org/wiki/Don't_repeat_yourself"><img src="https://shields.io/badge/-DRY%20Principle-grey" alt="DRY Principle" /></a><br>
     <a href="https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it"><img src="https://shields.io/badge/-YAGNI%20Principle-grey" alt="YAGNI Principle" /></a><br>
   </td>
-  <td>
+  <td style="vertical-align: top;">
     <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat&logo=linux-mint&logoColor=white" alt="Linux Mint" /> <img src="https://freesvg.org/img/jean-victor-balin-icon-star.png" width="auto" height="20px" /><br>
     <img src="https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white" alt="Debian" /><br>
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu" /><br>
