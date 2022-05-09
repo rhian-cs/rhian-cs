@@ -48,6 +48,7 @@ I like games, open source software and Linux.
     Docker<br>
     RabbitMQ<br>
     Microservices<br>
+    CI/CD<br>
     <a href="https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller">MVC</a><br>
     <a href="https://en.wikipedia.org/wiki/Don't_repeat_yourself">DRY Principle</a><br>
     <a href="https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it">YAGNI Principle</a><br>
