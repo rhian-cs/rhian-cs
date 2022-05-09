@@ -5,7 +5,7 @@ I am sorry, I've succumbed to the treacherous power of HTML in markdown... There
 
 # Hello there!
 
-My name is Rhian, I am a Junior Web Developer and a Computer Science student.
+My name is Rhian, I am a Web Developer and a Computer Science student.
 
 I like games, open source software and Linux.
 
@@ -14,7 +14,7 @@ I like games, open source software and Linux.
   https://media1.tenor.com/images/50ead60764442fd6304067bac5377027/tenor.gif
 -->
 
-<sub><sup><sub><sup>_By the way I like [Touhou](https://i1.kym-cdn.com/photos/images/newsfeed/000/333/537/b27.png) if you care about that_</sup></sub></sup></sub>
+<!-- <sub><sup><sub><sup>_By the way I like [Touhou](https://i1.kym-cdn.com/photos/images/newsfeed/000/333/537/b27.png) if you care about that_</sup></sub></sup></sub> -->
 
 ## Stats
 
@@ -39,6 +39,7 @@ I like games, open source software and Linux.
       Ruby<br>
       JavaScript<br>
       Python<br>
+      Elixir<br>
       C<br>
       Java<br>
   </td>
@@ -46,9 +47,10 @@ I like games, open source software and Linux.
     SQL<br>
     Docker<br>
     RabbitMQ<br>
-    Microservices Achitecture<br>
+    Microservices<br>
     <a href="https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller">MVC</a><br>
-    <a href="https://en.wikipedia.org/wiki/Don't_repeat_yourself">DRY</a><br>
+    <a href="https://en.wikipedia.org/wiki/Don't_repeat_yourself">DRY Principle</a><br>
+    <a href="https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it">YAGNI Principle</a><br>
   </td>
   <td>
     Linux Mint (currently using on<br>
@@ -94,7 +96,7 @@ Hopefully one day there will be too many to fit on a list.
   - [\[#2163\] Display the Approve Partner button at the top of the page with a tooltip](https://github.com/rubyforgood/human-essentials/pull/2163)
   - [\[#2413\] Fix bullet warnings in dashboard page](https://github.com/rubyforgood/human-essentials/pull/2413)
 - [Ruby on Rails] CASA:
-  - [\[#1774\] Remove transition_aged_youth column from CSV file when importing a case](https://github.com/rubyforgood/casa/pull/1774),
+  - [\[#1774\] Remove transition_aged_youth column from CSV file when importing a case](https://github.com/rubyforgood/casa/pull/1774)
   - [\[#1795\] Add Court Mandates to Edit CASA Case page](https://github.com/rubyforgood/casa/pull/1795)
   - [\[#1802\] Add option to remove Court Mandates](https://github.com/rubyforgood/casa/pull/1802)
   - [\[#1908\] Add Implementation Status to Court Mandates](https://github.com/rubyforgood/casa/pull/1908)
