@@ -40,8 +40,6 @@ I like games, open source software and Linux.
       <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /><br>
       <img src="https://img.shields.io/badge/Python-112244?style=flat&logo=python&logoColor=blue" alt="Python" /><br>
       <img src="https://img.shields.io/badge/Elixir-4B275F?style=flat&logo=elixir&logoColor=white" alt="Elixir" /><br>
-      <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" /><br>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java" /><br>
   </td>
   <td style="vertical-align: top;">
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="SQL" /><br>
