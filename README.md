@@ -73,6 +73,7 @@ I like games, open source software and Linux.
 - [PHP] [Encryption and Decryption using PBKDF2 and AES](https://github.com/rhian-cs/crypto-challenge-php-pbkdf2)
 - [Elixir] [My Elixir Study Library](https://github.com/rhian-cs/elixir-studies)
 - [Vue.js] [My Vue Study Library](https://github.com/rhian-cs/vue-udemy-studies)
+- [Rust] [Wolfenstein-like Raycasting Game](https://github.com/rhian-cs/rust-tutorial-raycaster)
 
 ## University Repositories 🇧🇷🎓
 
