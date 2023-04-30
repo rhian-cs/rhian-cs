@@ -55,6 +55,7 @@ I like games, open source software and Linux.
     <img src="https://img.shields.io/badge/manjaro-35BF5C?style=flat&logo=Manjaro&logoColor=white" alt="Manjaro" /><br>
     <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white" alt="Arch Linux" /><br>
     <img src="https://img.shields.io/badge/Gentoo-54487A?style=flat&logo=gentoo&logoColor=white" alt="Gentoo" /><br>
+    <img src="https://img.shields.io/badge/Alpine_Linux-0D597F?style=flat&logo=alpine-linux&logoColor=white" alt="Alpine Linux" /><br>
   </td>
 </tr>
 <table>
