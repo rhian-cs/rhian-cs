@@ -46,10 +46,7 @@ I like games, open source software and Linux.
     <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white" alt="Docker" /><br>
     <img src="https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=flat&logo=rabbitmq&logoColor=white" alt="RabbitMQ" /><br>
     <img src="https://shields.io/badge/-Microservices-grey" alt="Microservices" /><br>
-    <a href="https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller">
     <img src="https://shields.io/badge/-CI/CD-grey" alt="CI/CD" /></a><br>
-    <a href="https://en.wikipedia.org/wiki/Don't_repeat_yourself"><img src="https://shields.io/badge/-DRY%20Principle-grey" alt="DRY Principle" /></a><br>
-    <a href="https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it"><img src="https://shields.io/badge/-YAGNI%20Principle-grey" alt="YAGNI Principle" /></a><br>
   </td>
   <td style="vertical-align: top;">
     <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat&logo=linux-mint&logoColor=white" alt="Linux Mint" /> <img src="https://freesvg.org/img/jean-victor-balin-icon-star.png" width="auto" height="20px" /><br>
