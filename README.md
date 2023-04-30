@@ -74,6 +74,7 @@ I like games, open source software and Linux.
 - [Elixir] [My Elixir Study Library](https://github.com/rhian-cs/elixir-studies)
 - [Vue.js] [My Vue Study Library](https://github.com/rhian-cs/vue-udemy-studies)
 - [Rust] [Wolfenstein-like Raycasting Game](https://github.com/rhian-cs/rust-tutorial-raycaster)
+- [Godot] [Godot Action RPG Tutorial by HeartBeast](https://github.com/rhian-cs/godot-action-rpg-tutorial)
 
 ## University Repositories 🇧🇷🎓
 
