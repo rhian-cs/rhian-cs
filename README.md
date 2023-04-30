@@ -38,7 +38,7 @@ I like games, open source software and Linux.
   <td style="vertical-align: top;">
       <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white" alt="Ruby" /><br>
       <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript" /><br>
-      <img src="https://img.shields.io/badge/Python-112244?style=flat&logo=python&logoColor=blue" alt="Python" /><br>
+      <img src="https://img.shields.io/badge/Rust-aa4411?style=flat&logo=rust&logoColor=white" alt="Rust" /><br>
       <img src="https://img.shields.io/badge/Elixir-4B275F?style=flat&logo=elixir&logoColor=white" alt="Elixir" /><br>
   </td>
   <td style="vertical-align: top;">
