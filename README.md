@@ -19,6 +19,7 @@ I like games, open source software and Linux.
 ## Stats
 
 <!-- [![Rhian's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhian-cs&show_icons=true&theme=tokyonight&line_height=24.99)](https://github.com/anuraghazra/github-readme-stats) -->
+
 [![Rhian's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhian-cs&layout=compact&theme=tokyonight&card_width=445&langs_count=8&exclude_repo=AndromedaSolids,puc-2020-2-Projeto_final_LAEDII)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Technologies
@@ -67,6 +68,7 @@ I like games, open source software and Linux.
 ## Personal Projects and Studies 💼📚
 
 <!-- - [Docker] [Docker Orchestra - My Docker Containers + Some management scripts](https://github.com/rhian-cs/docker-orchestra) -->
+
 - [Elixir] [Weather Data Parser - CLI application](https://github.com/rhian-cs/elixir-weather-parser)
 - [PHP] [Encryption and Decryption using PBKDF2 and AES](https://github.com/rhian-cs/crypto-challenge-php-pbkdf2)
 - [Elixir] [My Elixir Study Library](https://github.com/rhian-cs/elixir-studies)
@@ -93,31 +95,36 @@ I like games, open source software and Linux.
 
 Hopefully one day there will be too many to fit on a list.
 
-- [Ruby Gem] Sidekiq Statistic:
-  - [Filter workers by their last job status](https://github.com/davydovanton/sidekiq-statistic/pull/173)
-- [Ruby on Rails] Human Essentials:
-  - [Display the Approve Partner button at the top of the page with a tooltip](https://github.com/rubyforgood/human-essentials/pull/2163)
-  - [Fix bullet warnings in dashboard page](https://github.com/rubyforgood/human-essentials/pull/2413)
-- [Ruby on Rails] CASA:
-  - [Remove transition_aged_youth column from CSV file when importing a case](https://github.com/rubyforgood/casa/pull/1774)
-  - [Add Court Mandates to Edit CASA Case page](https://github.com/rubyforgood/casa/pull/1795)
-  - [Add option to remove Court Mandates](https://github.com/rubyforgood/casa/pull/1802)
-  - [Add Implementation Status to Court Mandates](https://github.com/rubyforgood/casa/pull/1908)
-  - [Add court details to past court dates](https://github.com/rubyforgood/casa/pull/2080)
-  - [Generate past court reports from past court date](https://github.com/rubyforgood/casa/pull/2095)
-  - [Implement pending past court date model specs](https://github.com/rubyforgood/casa/pull/2132)
-  - [Fix reset password mail hardcoded image](https://github.com/rubyforgood/casa/pull/2133)
-  - [Allow unsetting judge on a given CASA case](https://github.com/rubyforgood/casa/pull/2136)
-  - [Add filters for case contacts](https://github.com/rubyforgood/casa/pull/2166)
-  - [Restrict case court report searching to admins and supervisors](https://github.com/rubyforgood/casa/pull/2176)
-  - [Add notes to followups](https://github.com/rubyforgood/casa/pull/2206)
-  - [Refactor supervisors system specs](https://github.com/rubyforgood/casa/pull/2267)
-  - [Display archived contacts differently in order to highlight them](https://github.com/rubyforgood/casa/pull/2298)
-  - [Add .webp to casa org logo accepted extensions](https://github.com/rubyforgood/casa/pull/3044)
-  - [Allow for editing volunteer notes](https://github.com/rubyforgood/casa/pull/3345)
-- [Ruby on Rails] Consul:
-  - [Make confirm alerts show the triggering action](https://github.com/consul/consul/pull/4543)
-- [Ruby on Rails] Comarev API:
-  - [Add approval flow for new customers](https://github.com/comarev/comarev/pull/90)
 - [JavaScript] Ramda Adjunct:
   - [Add isUinteger32 function](https://github.com/char0n/ramda-adjunct/pull/2257)
+
+- [Ruby on Rails] Comarev API:
+  - [Add approval flow for new customers](https://github.com/comarev/comarev/pull/90)
+
+- [Ruby on Rails] Consul:
+  - [Make confirm alerts show the triggering action](https://github.com/consul/consul/pull/4543)
+
+- [Ruby on Rails] CASA:
+  - [Allow for editing volunteer notes](https://github.com/rubyforgood/casa/pull/3345)
+  - [Add .webp to casa org logo accepted extensions](https://github.com/rubyforgood/casa/pull/3044)
+  - [Display archived contacts differently in order to highlight them](https://github.com/rubyforgood/casa/pull/2298)
+  - [Refactor supervisors system specs](https://github.com/rubyforgood/casa/pull/2267)
+  - [Add notes to followups](https://github.com/rubyforgood/casa/pull/2206)
+  - [Restrict case court report searching to admins and supervisors](https://github.com/rubyforgood/casa/pull/2176)
+  - [Add filters for case contacts](https://github.com/rubyforgood/casa/pull/2166)
+  - [Allow unsetting judge on a given CASA case](https://github.com/rubyforgood/casa/pull/2136)
+  - [Fix reset password mail hardcoded image](https://github.com/rubyforgood/casa/pull/2133)
+  - [Implement pending past court date model specs](https://github.com/rubyforgood/casa/pull/2132)
+  - [Generate past court reports from past court date](https://github.com/rubyforgood/casa/pull/2095)
+  - [Add court details to past court dates](https://github.com/rubyforgood/casa/pull/2080)
+  - [Add Implementation Status to Court Mandates](https://github.com/rubyforgood/casa/pull/1908)
+  - [Add option to remove Court Mandates](https://github.com/rubyforgood/casa/pull/1802)
+  - [Add Court Mandates to Edit CASA Case page](https://github.com/rubyforgood/casa/pull/1795)
+  - [Remove transition_aged_youth column from CSV file when importing a case](https://github.com/rubyforgood/casa/pull/1774)
+
+- [Ruby on Rails] Human Essentials:
+  - [Fix bullet warnings in dashboard page](https://github.com/rubyforgood/human-essentials/pull/2413)
+  - [Display the Approve Partner button at the top of the page with a tooltip](https://github.com/rubyforgood/human-essentials/pull/2163)
+
+- [Ruby Gem] Sidekiq Statistic:
+  - [Filter workers by their last job status](https://github.com/davydovanton/sidekiq-statistic/pull/173)
