@@ -75,7 +75,7 @@ I like games, open source software and Linux.
 - [Vue.js] [My Vue Study Library](https://github.com/rhian-cs/vue-udemy-studies)
 - [Rust] [Wolfenstein-like Raycasting Game](https://github.com/rhian-cs/rust-tutorial-raycaster)
 - [Godot] [Godot Action RPG Tutorial by HeartBeast](https://github.com/rhian-cs/godot-action-rpg-tutorial)
-- [Rust] [Recursive Hash Calculator](https://github.com/rhian-cs/rust-hash-calculator)
+- [Rust] [Sapphire Hash | Recursive Hash Calculator](https://github.com/rhian-cs/sapphire-hash)
 
 ## University Repositories 🇧🇷🎓
 
