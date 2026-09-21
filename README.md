@@ -52,7 +52,8 @@ I like games, open source software and Linux.
     <img src="https://shields.io/badge/-CI/CD-grey" alt="CI/CD" /></a><br>
   </td>
   <td style="vertical-align: top;">
-    <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat&logo=linux-mint&logoColor=white" alt="Linux Mint" /> <img src="https://freesvg.org/img/jean-victor-balin-icon-star.png" width="auto" height="20px" /><br>
+    <img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat&logo=linux-mint&logoColor=white" alt="Fedora" /> <img src="https://freesvg.org/img/jean-victor-balin-icon-star.png" width="auto" height="20px" /><br>
+    <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat&logo=linux-mint&logoColor=white" alt="Linux Mint" /><br>
     <img src="https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white" alt="Debian" /><br>
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" alt="Ubuntu" /><br>
     <img src="https://img.shields.io/badge/manjaro-35BF5C?style=flat&logo=Manjaro&logoColor=white" alt="Manjaro" /><br>
